@@ -1,0 +1,18 @@
+h1{
+    color:rgb(255, 255, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:300%;
+}
+
+P{
+    color:rgb(0, 0, 0);
+    font-family:'Courier New', Courier, monospace;
+    font-size:160%;
+}
+
+h2{color:rgb(0, 0, 0);
+font-family:'Times New Roman', Times, serif ;
+font-size: 170%;
+}
+P{color: black;
+font-size: larger;}
